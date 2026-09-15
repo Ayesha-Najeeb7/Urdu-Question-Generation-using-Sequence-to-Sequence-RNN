@@ -105,22 +105,12 @@ Use Colab or Kaggle for GPU access — training takes 1–2 hours on a free GPU 
 
 **Note:** BLEU-4/ROUGE-L are well below the expected range for this task (Du et al. 2017 report ~12 BLEU-4 on English SQuAD; 6–13 was expected here). Per the assignment's own guidance, a score this low more likely signals a pipeline issue than a fundamentally unlearnable task — see Discussion below.
 
-### Table 4 — Human Evaluation (50 samples)
-
-| | Fluency | Relevance | Answerability |
-|---|---|---|---|
-| Member 1 (% yes) | *pending* | *pending* | *pending* |
-| Member 2 (% yes) | *pending* | *pending* | *pending* |
-| Cohen's κ | *pending* | *pending* | *pending* |
-
-Ratings not yet collected — see `results/table4_human_eval.csv`. Both members must independently rate the same fixed-seed 50 validation samples before this table is complete.
-
 ### Figures
 
-1. Training and validation loss per epoch — *(insert loss_curve.png)*
-2. Source/target length histograms — *(insert Figure_2_source.png / Figure_2_Train.png)*
-3. Attention heat-map — *(insert results/attention_heatmap.png)*
-4. Front-end screenshot — *(insert screenshot)*
+1. Training and validation loss per epoch
+2. Source/target length histograms 
+3. Attention heat-map
+4. Front-end screenshot
 
 ## Discussion
 
