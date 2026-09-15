@@ -5,7 +5,7 @@ A from-scratch sequence-to-sequence model that reads an Urdu sentence with an an
 ## Team
 
 - Nalain-e-Muhammad
-- [Partner Name]
+- Ayesha Najeeb
 
 ## Problem
 
